@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/weardemo.iml" filepath="$PROJECT_DIR$/weardemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wearlibrary/wearlibrary.iml" filepath="$PROJECT_DIR$/wearlibrary/wearlibrary.iml" />
+    </modules>
+  </component>
+</project>
