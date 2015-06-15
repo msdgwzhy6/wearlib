@@ -1,1 +1,1 @@
-# wearlib通信�库
+# wearlib通信库
